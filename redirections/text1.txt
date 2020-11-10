@@ -1,0 +1,9 @@
+total 28
+-rw-r--r-- 1 sxyrup sxyrup  133 Nov 10 20:40 about.html
+drwxr-xr-x 2 sxyrup sxyrup 4096 Nov 10 20:43 css
+drwxr-xr-x 2 sxyrup sxyrup 4096 Nov 10 20:43 images
+-rw-r--r-- 1 sxyrup sxyrup  133 Nov 10 20:38 index.html
+-rw-r--r-- 1 sxyrup sxyrup  229 Nov 10 20:38 README.md
+-rw-r--r-- 1 sxyrup sxyrup  139 Nov 10 20:38 tasks.txt
+drwxr-xr-x 2 sxyrup sxyrup 4096 Nov 10 20:42 temp_images
+-rw-r--r-- 1 sxyrup sxyrup    0 Nov 10 21:31 text1.txt
